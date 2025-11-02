@@ -4,8 +4,8 @@
 
 | Nombre completo           | Cédula         | Programa académico       |
 |---------------------------|---------------|---------------------------|
-| Andrés Celis              | 1002146673    | Ingeniería mecanica       |
-| carlos eduardo rosero     |               | ingenieria mecanica       |
+| Cesar Andrés Celis        | 1002146673    | Ingeniería mecanica       |
+| andres villota            |               | ingenieria mecanica       |
 
 
 ## Descripción
