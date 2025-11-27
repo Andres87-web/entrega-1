@@ -14,7 +14,8 @@ Primera entrega del proyecto Kaggle.
 En esta entrega se muestra la carga y exploración básica del archivo `train.csv` correspondiente a la competencia de Kaggle del curso AI4ENG.
 
 segunda entrega del proyecto kaggle
-https://www.youtube.com/watch?v=qcDEFDyqGbs
+https://www.youtube.com/watch?v=qcDEFDyqGbs.
+
 Entrega final
 https://youtu.be/m7i1HQy1yxs?feature=shared
 
